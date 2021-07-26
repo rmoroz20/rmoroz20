@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmoroz20
 - 👀 I’m interested in learning as much as I can!
-- 🌱 I’m currently learning C+, Linux, general command line navigation
+- 🌱 I’m currently learning C++, Linux, general command line navigation and Java
 - 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me ... Dont.
 
