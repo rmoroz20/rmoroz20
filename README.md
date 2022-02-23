@@ -4,8 +4,7 @@
 <br>
 <br>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+## ⚡ Recent GitHub Activity
    <a href="https://github.com/rmoroz20"><img alt="Rebecca's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rmoroz20&custom_title=Rebecca's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <!---
